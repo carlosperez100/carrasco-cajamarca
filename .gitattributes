@@ -1,0 +1,18 @@
+# Sin esto, en Windows git trata los binarios como texto y les cambia los saltos de
+# linea al hacer checkout: el PDF y los videos quedan corruptos en cualquier clon nuevo.
+*.pdf  binary
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.mp4  binary
+*.mp3  binary
+
+# El texto va normalizado a LF dentro del repositorio.
+*.html text eol=lf
+*.css  text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+*.csv  text eol=lf
+
+# Los subtitulos los leen reproductores de varios sistemas: LF es lo seguro.
+*.srt  text eol=lf
