@@ -1,93 +1,135 @@
 1
-00:00:00,000 --> 00:00:10,056
-Edison Carrasco Olivera Candidato a Gobernador Regional de
-Cajamarca · Partido Democrático Somos Perú
+00:00:00,900 --> 00:00:07,884
+Edison Carrasco Olivera es candidato a Gobernador Regional de Cajamarca por el Partido Democrático Somos Perú.
 
 2
-00:00:10,056 --> 00:00:15,672
-De Tacabamba. Vive en Sócota. Chota y Cutervo, las dos
-provincias donde más duro se le conoce
+00:00:08,234 --> 00:00:12,410
+La segunda elección regional es el domingo seis de diciembre.
 
 3
-00:00:15,672 --> 00:00:32,784
-Veintisiete años de aula. Docente en la institución educativa
-San Lorenzo · alcalde de Sócota en dos periodos · gerente
-subregional de Cutervo
+00:00:14,410 --> 00:00:20,530
+Nació en Tacabamba, provincia de Chota, y vive en Sócota, provincia de Cutervo.
 
 4
-00:00:32,784 --> 00:00:47,448
-Cajamarca es el departamento más pobre del Perú. En dos mil
-veinticinco la pobreza alcanzó al cuarenta y uno por ciento de
-su población, cuando en el país fue veinticinco coma siete. Lo
+00:00:22,530 --> 00:00:35,034
+Fue docente veintisiete años en la institución educativa San Lorenzo de Sócota, alcalde de su distrito en dos periodos, y gerente subregional de Cutervo entre dos mil veintitrés y dos mil veintiséis.
 
 5
-00:00:47,448 --> 00:00:56,592
-La pobreza bajó cuatro puntos en un solo año, de cuarenta y
-cinco a cuarenta y uno por ciento. Cajamarca cayó más del doble
-que el promedio nacional.
+00:00:35,384 --> 00:00:41,864
+Su hoja de vida está publicada en el Jurado Nacional de Elecciones y no registra ninguna sentencia.
 
 6
-00:00:56,592 --> 00:01:15,288
-El Gobierno Regional maneja cuatro mil cuatrocientos ochenta y
-ocho millones de soles al año, de los cuales mil ciento quince
-son para obra. Y los ejecuta: noventa y siete por ciento del
+00:00:43,864 --> 00:00:47,512
+Cajamarca es el departamento más pobre del Perú.
 
 7
-00:01:15,288 --> 00:01:38,424
-Porque una cosa es la capacidad de gastar y otra la calidad del
-gasto. De cada cien soles, sesenta y ocho se van en planilla y
-pensiones, y solo veintidós son inversión. En toda la región y
+00:00:47,862 --> 00:00:56,046
+En dos mil veinticinco la pobreza alcanzó al cuarenta y uno por ciento de su población, cuando en el país fue veinticinco coma siete.
 
 8
-00:01:38,424 --> 00:01:52,704
-La anemia en niñas y niños de seis a treinta y cinco meses subió
-de treinta y dos coma cinco por ciento en dos mil veintitrés a
-treinta y nueve coma cuatro en dos mil veinticinco. Su plan de
+00:00:56,396 --> 00:01:00,932
+Lo informó el Instituto Nacional de Estadística e Informática.
 
 9
-00:01:52,704 --> 00:02:07,944
-Cajamarca tiene la mayor brecha del país en establecimientos de
-salud del primer nivel: ochocientos sesenta y cinco sin
-intervención integral en cinco años. Su compromiso es intervenir
+00:01:02,932 --> 00:01:09,124
+La pobreza bajó cuatro puntos en un solo año, de cuarenta y cinco a cuarenta y uno por ciento.
 
 10
-00:02:07,944 --> 00:02:18,720
-Solo uno de cada cuatro colegios públicos tiene electricidad,
-agua por red y desagüe a la vez. Son cerca de ciento cuarenta y
-cinco mil estudiantes sin alguno de los tres servicios.
+00:01:09,474 --> 00:01:13,410
+Cajamarca cayó más del doble que el promedio nacional.
 
 11
-00:02:18,720 --> 00:02:27,744
-Seis de cada diez cajamarquinos viven en el campo: ochocientas
-sesenta y nueve mil personas. Por eso las recetas de ciudad acá
-no funcionan.
+00:01:15,410 --> 00:01:24,770
+El Gobierno Regional de Cajamarca maneja cuatro mil cuatrocientos ochenta y ocho millones de soles al año, de los cuales mil ciento quince son para obra.
 
 12
-00:02:27,744 --> 00:02:42,648
-Solo el veintitrés por ciento de la superficie agrícola tiene
-riego, siendo la tercera región con más superficie agrícola del
-país. Su compromiso es llevarla al treinta y cinco por ciento,
+00:01:25,120 --> 00:01:32,944
+Y los ejecuta: noventa y siete por ciento del presupuesto en dos mil veinticinco. Se gasta casi todo.
 
 13
-00:02:42,648 --> 00:02:58,344
-La red vial departamental tiene ochocientos cincuenta
-kilómetros, y hay mil cien kilómetros de vías vecinales
-esperando reclasificación desde dos mil diecinueve. Su
+00:01:33,294 --> 00:01:37,614
+Y Cajamarca sigue siendo el departamento más pobre del Perú.
 
 14
-00:02:58,344 --> 00:03:09,312
-El índice de brecha compara las trece provincias en nueve
-carencias medidas por el Censo dos mil veinticinco. Hualgayoc,
-Celendín, San Marcos y Chota son las de mayor brecha.
+00:01:39,614 --> 00:01:44,342
+Porque una cosa es la capacidad de gastar y otra la calidad del gasto.
 
 15
-00:03:09,312 --> 00:03:17,784
-Y en desagüe la brecha es la más dura: en San Miguel, Hualgayoc
-y San Pablo, tres de cada cuatro viviendas no tienen desagüe por
-red pública.
+00:01:44,692 --> 00:01:51,556
+De cada cien soles, sesenta y ocho se van en planilla y pensiones, y solo veintidós son inversión.
 
 16
-00:03:17,784 --> 00:03:31,656
-Las cifras, con su fuente. Todas están publicadas en
-carlosperez100.github.io/carrasco-cajamarca
+00:01:51,906 --> 00:01:58,818
+En toda la región y en todo el año, el agro recibió ciento ocho millones y el saneamiento noventa.
 
+17
+00:01:59,168 --> 00:02:06,560
+Ahí está el problema: no es que falte plata ni que no se ejecute. Es que no va donde está la brecha.
+
+18
+00:02:08,560 --> 00:02:18,880
+La anemia en niñas y niños de seis a treinta y cinco meses subió de treinta y dos coma cinco por ciento en dos mil veintitrés a treinta y nueve coma cuatro en dos mil veinticinco.
+
+19
+00:02:19,230 --> 00:02:24,750
+Su plan de gobierno se compromete a bajarla a veinticinco por ciento al dos mil treinta.
+
+20
+00:02:26,750 --> 00:02:36,494
+Cajamarca tiene la mayor brecha del país en establecimientos de salud del primer nivel: ochocientos sesenta y cinco sin intervención integral en cinco años.
+
+21
+00:02:36,844 --> 00:02:44,020
+Su compromiso es intervenir trescientos entre dos mil veintisiete y dos mil treinta, setenta y cinco por año.
+
+22
+00:02:46,020 --> 00:02:52,356
+Solo uno de cada cuatro colegios públicos tiene electricidad, agua por red y desagüe a la vez.
+
+23
+00:02:52,706 --> 00:02:58,322
+Son cerca de ciento cuarenta y cinco mil estudiantes sin alguno de los tres servicios.
+
+24
+00:03:00,322 --> 00:03:06,730
+Seis de cada diez cajamarquinos viven en el campo: ochocientas sesenta y nueve mil personas.
+
+25
+00:03:07,080 --> 00:03:10,680
+Por eso las recetas de ciudad acá no funcionan.
+
+26
+00:03:12,680 --> 00:03:21,104
+Solo el veintitrés por ciento de la superficie agrícola tiene riego, siendo la tercera región con más superficie agrícola del país.
+
+27
+00:03:21,454 --> 00:03:29,542
+Su compromiso es llevarla al treinta y cinco por ciento, con quince mil reservorios y cuatro de las nueve represas priorizadas.
+
+28
+00:03:31,542 --> 00:03:41,646
+La red vial departamental tiene ochocientos cincuenta kilómetros, y hay mil cien kilómetros de vías vecinales esperando reclasificación desde dos mil diecinueve.
+
+29
+00:03:41,996 --> 00:03:49,316
+Su compromiso es cerrar ese expediente y llegar a mil novecientos cincuenta kilómetros con mantenimiento presupuestado.
+
+30
+00:03:51,316 --> 00:03:58,228
+El índice de brecha compara las trece provincias en nueve carencias medidas por el Censo dos mil veinticinco.
+
+31
+00:03:58,578 --> 00:04:03,810
+Hualgayoc, Celendín, San Marcos y Chota son las de mayor brecha.
+
+32
+00:04:05,810 --> 00:04:15,074
+Y en desagüe la brecha es la más dura: en San Miguel, Hualgayoc y San Pablo, tres de cada cuatro viviendas no tienen desagüe por red pública.
+
+33
+00:04:17,074 --> 00:04:23,194
+Todas las cifras de este video están publicadas, con su fuente, en el portal de campaña.
+
+34
+00:04:23,544 --> 00:04:32,808
+Edison Carrasco Olivera, candidato a Gobernador Regional de Cajamarca. La segunda elección regional es el domingo seis de diciembre.
